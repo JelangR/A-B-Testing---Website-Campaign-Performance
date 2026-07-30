@@ -76,7 +76,7 @@ targeting dengan budget lebih kecil.
 **Perbandingan distribusi purchase (boxplot)**
 ![Boxplot Purchase Comparison](images/Boxplot.png)
 
-**Distribusi purchase per campaign**
+**Distribusi purchase per campaign**</br>
 ![Distribution Purchase](images/Distribusi_Purchase.png)
 
 **Tren purchase harian**
