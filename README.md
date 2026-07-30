@@ -74,16 +74,16 @@ targeting dengan budget lebih kecil.
 ## Visualizations
 
 **Perbandingan distribusi purchase (boxplot)**
-![Boxplot Purchase Comparison](images/boxplot_purchase_comparison.png)
+![Boxplot Purchase Comparison](images/Boxplot.png)
 
 **Distribusi purchase per campaign**
-![Distribution Purchase](images/distribution_purchase.png)
+![Distribution Purchase](images/Distribusi_Purchase.png)
 
 **Tren purchase harian**
-![Daily Trend](images/daily_trend_purchase.png)
+![Daily Trend](images/Tren_harian.png)
 
 **Perbandingan conversion rate di setiap tahap funnel**
-![Funnel Comparison](images/funnel_comparison.png)
+![Funnel Comparison](images/Funnel.png)
 
 ## Tools
 
@@ -93,7 +93,7 @@ targeting dengan budget lebih kecil.
 ## Repo Structure
 
 ```
-├── A_B_Testing_Best_Campaign_Web_Purchase.ipynb   # notebook analisis lengkap
+├── notebook.ipynb   # notebook analisis lengkap
 ├── images/                                        # chart hasil visualisasi
 ├── data/                                          # control_group.csv, test_group.csv
 └── README.md
