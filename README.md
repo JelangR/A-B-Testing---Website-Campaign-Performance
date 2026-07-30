@@ -103,8 +103,5 @@ targeting dengan budget lebih kecil.
 
 ```bash
 pip install pandas numpy scipy matplotlib seaborn
-jupyter notebook A_B_Testing_Best_Campaign_Web_Purchase.ipynb
+jupyter notebook.ipynb
 ```
-
----
-*Dataset publik dari Kaggle, digunakan untuk tujuan pembelajaran/portofolio.*
