@@ -80,7 +80,7 @@ targeting dengan budget lebih kecil.
 ![Distribution Purchase](images/Distribusi_Purchase.png)
 
 **Tren purchase harian**
-![Daily Trend](images/Tren_harian.png)
+![Daily Trend](images/Tren_Harian.png)
 
 **Perbandingan conversion rate di setiap tahap funnel**
 ![Funnel Comparison](images/Funnel.png)
