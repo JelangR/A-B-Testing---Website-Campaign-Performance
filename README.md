@@ -1,6 +1,6 @@
 # A/B Testing Analysis: Website Campaign Performance
 
-Analisis eksperimen A/B pada dua campaign iklan Facebook (`Control Campaign`
+Analisis eksperimen A/B pada dua campaign iklan (`Control Campaign`
 vs `Test Campaign`) untuk mengevaluasi mana yang lebih efektif mendorong
 purchase di website, dari sisi statistik maupun efisiensi biaya.
 
