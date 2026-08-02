@@ -93,9 +93,9 @@ targeting dengan budget lebih kecil.
 ## Repo Structure
 
 ```
-├── notebook.ipynb   # notebook analisis lengkap
-├── images/                                        # chart hasil visualisasi
-├── data/                                          # control_group.csv, test_group.csv
+├── notebook.ipynb
+├── images/                                       
+├── data/                                          
 └── README.md
 ```
 
