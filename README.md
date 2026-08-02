@@ -22,12 +22,12 @@ Kaggle](https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset).
 
 ## Metodologi
 
-1. **Data cleaning** — 1 baris dengan data tidak lengkap (5 Agustus,
+1. **Data cleaning**: 1 baris dengan data tidak lengkap (5 Agustus,
    `Control Campaign`) dikeluarkan dari analisis.
-2. **Feature engineering** — membangun metrik funnel: CTR, Search Rate,
+2. **Feature engineering**: membangun metrik funnel: CTR, Search Rate,
    View Rate, Cart Rate, Purchase Rate, Purchase Rate per Click, dan CPA
    (Cost per Acquisition).
-3. **Uji statistik** — karena kedua campaign berjalan pada tanggal yang
+3. **Uji statistik**: karena kedua campaign berjalan pada tanggal yang
    sama, digunakan **paired t-test** dan **Wilcoxon signed-rank test**
    (bukan independent t-test) untuk membandingkan purchase harian.
    Normalitas selisih dicek dengan **Shapiro-Wilk test** sebelum memilih
